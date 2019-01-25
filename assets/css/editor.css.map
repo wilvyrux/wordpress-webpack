@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./build/scss/C:/xampp/htdocs/north2/wp-content/themes/north-child/build/scss/C:/xampp/htdocs/north2/wp-content/themes/north-child/build/scss/components/_buttons.scss"],"names":[],"mappings":"AAAA;EACI,UAAS","file":"assets/css/editor.css","sourcesContent":[".btn {\r\n    margin: 0;\r\n}"],"sourceRoot":""}
